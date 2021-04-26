@@ -65,7 +65,7 @@
         <jcloverslf4j.version>1.7.6</jcloverslf4j.version>
         <commons-codec.version>1.10</commons-codec.version>
         <xstream.version>1.4.10</xstream.version>
-        <commons-io.version>2.5</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <joda-time.version>2.9.9</joda-time.version>
         <jackson.version>2.8.6</jackson.version>
         <spring-oxm.version>4.3.6.RELEASE</spring-oxm.version>
